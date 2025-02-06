@@ -148,7 +148,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Synthical](https://synthical.com) - AI-powered collaborative research environment.
 - [scite](https://scite.ai/) - A platform for discovering and evaluating scientific articles.
 - [SciSpace](https://typeset.io/) - An AI research assistant for understanding scientific literature.
-
+- [Thesify] (https://thesify.ai/) - Thesify is an AI research assistant for reviewing manuscripts and essays, summarizing academic articles, finding conferences and journals. 
 ### Other text generators
 
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
